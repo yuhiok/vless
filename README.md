@@ -8,7 +8,7 @@
 
 经测试本镜像不会因为大量占用资源而被封号。
 
-[![Deploy](https://dashboard.scalingo.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/yuhiok/vless/tree/master)
+[![Deploy](https://dashboard.scalingo.com/deploy/button.png)](https://dashboard.scalingo.com//new?template=https://github.com/yuhiok/vless/tree/master)
 
 ## 注意
 
